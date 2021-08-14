@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shabbirkheriwala
 - 👀 I’m interested in Android and Backend development
-- 🌱 I’m currently learning Compose
+- 🌱 I’m currently working on Go Lang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
